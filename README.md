@@ -4,6 +4,7 @@
 
 This repository houses enterprise-grade Linux administration resources and deployment architecture documentation for the RoboShop microservices platform. The materials are structured to provide a comprehensive foundation in Linux systems administration while offering practical implementation experience with distributed application architecture.
 
+
 ## Repository Architecture
 
 The framework is organized into two primary components:
